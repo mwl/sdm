@@ -79,6 +79,6 @@ HTML rapporter bliver lagt i performance-tests/target/site/ når test er færdig
 Version af dokument
 -------------------
 
-0.1 2011-10-28 Første version af dokumentet /tgk@trifork.com
-0.2 2011-12-29 Mindre ændringer af stavefejl /tgk@trifork.com
-0.3 2012-03-04 Ændret subjectSerialNumbers property til at være en række i whitelist_config i databasen.
+0.1 2011-10-28 Første version af dokumentet /tgk@trifork.com  
+0.2 2011-12-29 Mindre ændringer af stavefejl /tgk@trifork.com  
+0.3 2012-03-04 Ændret subjectSerialNumbers property til at være en række i whitelist_config i databasen.  
